@@ -29,3 +29,22 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignorer les répertoires de dépendances
+node_modules/
+vendor/
+
+
+.env
+*.env
+
+
+.idea/
+.vscode/
+
+
+*.log
+
+
+.DS_Store
+Thumbs.db
